@@ -1,0 +1,87 @@
+{
+    "arabica": [
+        {
+            "foto": "images/produk/product_capuchino.jpg",
+            "nama": "Cappuccino Arabica",
+            "size": "500 Gram",
+            "harga": "200.000",
+            "link": "https://www.google.com/search?q=cappuccino+arabica&tbm=shop"
+        },
+        {
+            "foto": "images/produk/product_espresso.jpg",
+            "nama": "Pahit Arabica",
+            "size": "100 Gram",
+            "harga": "100.000",
+            "link": "https://www.google.com/search?q=pahit+arabica&tbm=shop"
+        },
+        {
+            "foto": "images/produk/product_latte.jpg",
+            "nama": "Latte Arabica",
+            "size": "150 Gram",
+            "harga": "150.000",
+            "link": "https://www.google.com/search?q=latte+arabica&tbm=shop"
+        }
+    ],
+    "robusta": [
+        {
+            "foto": "images/produk/product_kopi_susu.jpg",
+            "nama": "Kopsus Robusta",
+            "size": "100 Gram",
+            "harga": "500.000",
+            "link": "https://www.google.com/search?q=kopi+susu+robusta&tbm=shop"
+        },
+        {
+            "foto": "images/produk/product_latte.jpg",
+            "nama": "Latte Robusta",
+            "size": "150 Gram",
+            "harga": "150.000",
+            "link": "https://www.google.com/search?q=latte+robusta&tbm=shop"
+        }
+    ],
+    "non-coffee": [
+        {
+            "foto": "https://bakingmischief.com/wp-content/uploads/2019/05/iced-mocha-image-square.jpg",
+            "nama": "Chocolate",
+            "size": "100 Gram",
+            "harga": "15.000",
+            "link": "https://www.google.com/search?q=kopi+susu+robusta&tbm=shop"
+        },
+        {
+            "foto": "https://assets.tmecosys.com/image/upload/t_web767x639/img/recipe/ras/Assets/7cfb79f22186cc268533023e8dd80b76/Derivates/332ef194335299044ce59aeff0d600482d22b916.jpg",
+            "nama": "Matcha Latte",
+            "size": "150 Gram",
+            "harga": "150.000",
+            "link": "https://www.google.com/search?q=latte+robusta&tbm=shop"
+        },
+        {
+            "foto": "https://liputankota.com/wp-content/uploads/2020/11/Ilustrasi-choco-banana-milkshake.Pinterest.jpg",
+            "nama": "Ice Choco Banana",
+            "size": "150 Gram",
+            "harga": "15.000",
+            "link": "https://www.google.com/search?q=latte+robusta&tbm=shop"
+        },
+        {
+            "foto": "https://img.kurio.network/NsjJwvj6Ve-PXrK0cMJR0H7dorw=/1200x1200/filters:quality(80)/https://kurio-img.kurioapps.com/21/11/14/48a5a075-b888-491e-b040-983dee630ffe.jpe",
+            "nama": "Ice Lychee Yakult",
+            "size": "150 Gram",
+            "harga": "14.000",
+            "link": "https://www.google.com/search?q=latte+robusta&tbm=shop"
+        }
+    ],
+    "food": [
+        {
+            "foto": "https://awsimages.detik.net.id/community/media/visual/2022/03/17/resep-nasi-goreng-jawa_43.jpeg?w=1200",
+            "nama": "Nasi Goreng Jawa",
+            "size": "1 Porsi",
+            "harga": "24.000",
+            "link": "https://www.google.com/search?q=kopi+susu+robusta&tbm=shop"
+        },
+        {
+            "foto": "https://www.unileverfoodsolutions.com.my/dam/ufs-my/calcmenu/recipes/creamy-salted-egg-sauce-served-on-chicken-chop/FA_BATCH3_3-Creamy-Salted-Egg-Sauce-w-Chicken-Chop-LANDSCAPE1260x709px.jpg",
+            "nama": "Creamy Salted Egg Souce",
+            "size": "1 Porsi",
+            "harga": "35.000",
+            "link": "https://www.google.com/search?q=latte+robusta&tbm=shop"
+        }
+    ]
+}
